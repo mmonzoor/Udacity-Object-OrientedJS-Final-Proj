@@ -8,4 +8,4 @@ For detailed instructions on how to get started, check out this [guide](https://
 
 
 
-###Above is the instructions for the final project of Udacity Object Oriented JavaScript 
+### Above is the instructions for the final project of Udacity Object Oriented JavaScript 
